@@ -5,27 +5,30 @@
 }
 
 body {
-  width: 60%;
-  margin-left: auto;
-  margin-right: auto;
+  align-content: center;
+  align-items: center;
+  text-align: center;
 }
 
-#calendario {
-  border: 1px solid black;
-  margin-left: 200px;
+#cal {
+  margin-top: 40px;
+  width: 45%;
+  height: 500px;
+  margin-left: auto;
   margin-right: auto;
+  background-color: white;
+  border: 1px solid rgb(185, 185, 185);
 }
 
 .cal-linha {
-  height: 90px;
-  border: 1px solid rgb(120, 120, 153);
-  background-color: rgb(199, 226, 217);
-  margin: 5px;
+  padding: 5px;
+  height: 80px;
+  background-color: rgb(245, 245, 245);
 }
 .cal-item {
   width:  80px;
   height: 80px;
-  border: 1px solid red;
-  background-color: white;
+  border: 1px solid rgb(197, 197, 197);
+  background-color: rgb(255, 255, 255);
   display: inline-block
 }
