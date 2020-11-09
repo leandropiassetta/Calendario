@@ -1,0 +1,27 @@
+{
+  "name": "Calendario",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leandropiassetta/Calendario.git"
+  },
+  "keywords": [],
+  "author": "Viviane Florido <vivianeflowt@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/leandropiassetta/Calendario/issues"
+  },
+  "homepage": "https://github.com/leandropiassetta/Calendario#readme",
+  "dependencies": {
+    "babel-eslint": "10.1.0",
+    "eslint": "7.13.0",
+    "eslint-config-airbnb-base": "14.2.1",
+    "eslint-plugin-import": "2.22.1",
+    "prettier": "2.1.2"
+  }
+}
